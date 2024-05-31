@@ -14,7 +14,7 @@
   <br>
   <img  src="https://img.shields.io/github/commit-activity/w/ArianPashae/Arixo-Grabber-V1?color=6d00c1">
   <img  src="https://img.shields.io/github/last-commit/ArianPashae/Arixo-Grabber-V1?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/license/ArianPashae/Arixo-Grabber-V11?color=8324e4">
+  <img  src="https://img.shields.io/github/license/ArianPashae/Arixo-Grabber-V1?color=8324e4">
   <br>
   <img  src="https://img.shields.io/github/issues/ArianPashae/Arixo-Grabber-V1?color=6d00c1&logoColor=6d00c1">
   <img  src="https://img.shields.io/github/issues-closed/ArianPashae/Arixo-Grabber-V1?color=6d00c1&logoColor=6d00c1">
